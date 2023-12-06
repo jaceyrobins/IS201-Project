@@ -1,0 +1,29 @@
+.nav {
+    float: right;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: grey;
+}
+.body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: purple;
+    background-color:azure;
+}
+.div1 {
+    text-align: center;
+    font-weight: bold;
+    color:black;
+}
+.div2 {
+    text-align: left;
+    font-weight: 100px;
+    color: black;
+}
+.div3 {
+    text-align: center;
+    font-weight: 300px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:darkblue;
+}
+.image{
+    float: right;
+}
